@@ -6,4 +6,8 @@ export AIRFLOW_HOME=~/airflow
 pip3 install apache-airflow
 
 # initialize the database
-airflow initdb
+# airflow 1
+#airflow initdb
+
+#airflow 2
+airflow db init
